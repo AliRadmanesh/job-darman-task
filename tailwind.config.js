@@ -13,7 +13,8 @@ module.exports = {
         "tab-active": "#1E0E62",
         green: "#25DAC5",
         "sky-blue": "#1DA1F2",
-        "separator-text": "#141414"
+        "separator-text": "#141414",
+        pink: "#E93A7D"
       }
     }
   }
