@@ -14,7 +14,8 @@ module.exports = {
         green: "#25DAC5",
         "sky-blue": "#1DA1F2",
         "separator-text": "#141414",
-        pink: "#E93A7D"
+        pink: "#E93A7D",
+        navy: "#2F1893"
       }
     }
   }
