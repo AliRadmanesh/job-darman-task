@@ -8,7 +8,7 @@ import { Card } from "components/card";
 export const ContactUs = () => (
   <section className="relative mx-auto h-[calc(100vh-84px)]">
     {/* Background-Image */}
-    <div className="bg-[url('./src/modules/landing-page/components/contact-us/background-image.jpg')] w-full h-full bg-center bg-no-repeat bg-cover absolute top-[-10px] left-0" />
+    <div className="bg-[url('./src/modules/landing-page/components/contact-us/background-image.jpg')] w-full h-screen bg-center bg-no-repeat bg-cover absolute top-[-10px] left-0" />
     <div className="flex flex-col justify-center items-center px-4 lg:px-0 lg:flex-row gap-y-12 lg:gap-y-0 lg:gap-x-24 h-[calc(100vh-84px-20px)]">
       <div className="z-10 w-[170px] md:w-[270px] lg:w-[370px]">
         <p className="text-white text-2xl sm:text-3xl md:text-4xl lg:text-[42px] lg:leading-[3rem]">{"Let’s Keep in Touch"}</p>
